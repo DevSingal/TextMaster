@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TextMaster/static/js/main.c9059d06.chunk.js",
+    "main.js.map": "/TextMaster/static/js/main.c9059d06.chunk.js.map",
+    "runtime-main.js": "/TextMaster/static/js/runtime-main.43630e6b.js",
+    "runtime-main.js.map": "/TextMaster/static/js/runtime-main.43630e6b.js.map",
+    "static/js/2.21dbc6f9.chunk.js": "/TextMaster/static/js/2.21dbc6f9.chunk.js",
+    "static/js/2.21dbc6f9.chunk.js.map": "/TextMaster/static/js/2.21dbc6f9.chunk.js.map",
+    "index.html": "/TextMaster/index.html",
+    "static/js/2.21dbc6f9.chunk.js.LICENSE.txt": "/TextMaster/static/js/2.21dbc6f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43630e6b.js",
+    "static/js/2.21dbc6f9.chunk.js",
+    "static/js/main.c9059d06.chunk.js"
+  ]
+}

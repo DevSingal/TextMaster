@@ -1,0 +1,12 @@
+*{padding: 0px; margin: 0px; box-sizing: border-box;}
+
+body{
+    background-color: white;
+    color: wheat;
+}
+
+#darkMode__btn{
+    position: absolute;
+    bottom: 0.5cm;
+    right: 0.5cm;
+}
